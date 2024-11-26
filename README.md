@@ -7,9 +7,7 @@ Front-End Web Developer with more than 5 years of experience crafting mobile-opt
 - 🌍  I'm currently based in Den Haag
 - 🖥️  See my portfolio at [dustinheisey.com](http://dustinheisey.co)
 - ✉️  You can contact me at [dustin@heisey.email](mailto:dustin@heisey.email)
-- 🚀  I'm currently working on [An Inconvenient Modpack](http://inconvenient.gg)
-- 🧠  I'm learning Typescript, E2E Testing, and the latest CSS developments
-- 🤝  I'm open to collaborating on Projects working towards climate change solutions
+- 🚀  I'm currently working on [An Inconvenient Modpack](http://inconvenient.gg) & [Nurtur.design](https://github.com/dustinheisey/Nurtur.design)
 
 ### Skills
 
