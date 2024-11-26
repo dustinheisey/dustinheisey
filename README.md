@@ -5,7 +5,7 @@
 Front-End Web Developer with more than 5 years of experience crafting mobile-optimized, visually engaging, and accessible web applications. Skilled in building modular, reusable design systems and ensuring brand consistency across projects. Proficient in rapidly prototyping new concepts, with a focus on creating seamless, user-friendly interfaces for diverse audiences.
 
 - 🌍  I'm currently based in Den Haag
-- 🖥️  See my portfolio at [dustinheisey.com](http://dustinheisey.co)
+- 🖥️  See my portfolio at [dustinheisey.com](http://dustinheisey.com)
 - ✉️  You can contact me at [dustin@heisey.email](mailto:dustin@heisey.email)
 - 🚀  I'm currently working on [An Inconvenient Modpack](http://inconvenient.gg) & [Nurtur.design](https://github.com/dustinheisey/Nurtur.design)
 
